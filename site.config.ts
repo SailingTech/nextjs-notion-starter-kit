@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '码力在线',
-  domain: 'chenchaonotes.xyz',
+  domain: 'https://supercod.notion.site/supercod/e24aaaa8bf364ff2883602647c9c0d63',
   author: '超级码力',
 
   // open graph metadata (optional)
